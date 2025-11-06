@@ -67,7 +67,7 @@ It navigates safely by measuring distance to nearby objects and changing directi
 <div align="center">
   <b>Developed by</b><br>
   <b>Alok Singh Negi</b><br>
-  Department of Electronics and Computer Engineering
+  Computer Science and Engineering Department
 </div>
 
 ---
