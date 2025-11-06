@@ -7,12 +7,11 @@ It navigates safely by measuring distance to nearby objects and changing directi
 
 ## 📸 Project Overview
 
-| Front View | Side View |
-|-------------|------------|
-
-| ![Front View](./public/Front_View.jpeg) 
-| ![Side View](./public/Side_View.jpeg) 
-| ![Top View](./public/Top_view.jpeg)
+<div align="center">
+  <img src="./public/Front_View.jpeg" alt="Front View" width="280"/>
+  <img src="./public/Side_View.jpeg" alt="Side View" width="280"/>
+  <img src="./public/Top_View.jpeg" alt="Top View" width="280"/>
+</div>
 
 ---
 
@@ -65,13 +64,10 @@ It navigates safely by measuring distance to nearby objects and changing directi
 
 ---
 
-## 🧑‍💻 Developed By
-
-**Alok Singh Negi**  
-Department of Electronics and Computer Engineering  
+<div align="center">
+  <b>Developed by</b><br>
+  <b>Alok Singh Negi</b><br>
+  Department of Electronics and Computer Engineering
+</div>
 
 ---
-
-## 🪄 License
-
-This project is open-source under the **MIT License**.
