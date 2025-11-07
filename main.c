@@ -69,7 +69,7 @@ void loop() {
 int readDistance() {
   delay(50);
   int cm = sonar.ping_cm();
-  if (cm == 0) cm = 250;
+ 
   return cm;
 }
 
